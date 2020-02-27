@@ -1,0 +1,226 @@
+2019-12-25 08:54:17,129 INFO  [Log] **************************verifyFooterMessage*********************** 
+2019-12-25 08:54:17,130 INFO  [Log] Successfully launched the Browser 
+2019-12-25 08:54:18,831 INFO  [Log] Successfully launch the application 
+2019-12-25 08:54:29,478 INFO  [Log] Successfully close the browser 
+2019-12-25 08:54:29,478 INFO  [Log] **************************End********************** 
+2019-12-25 08:54:32,054 INFO  [Log] **************************verifyLoginWithBlankPassword*********************** 
+2019-12-25 08:54:32,054 INFO  [Log] Successfully launched the Browser 
+2019-12-25 08:54:35,405 INFO  [Log] Successfully launch the application 
+2019-12-25 08:54:35,544 INFO  [Log] Entered username: Vishnu 
+2019-12-25 08:54:35,630 INFO  [Log] Entered Password:  
+2019-12-25 08:54:35,727 INFO  [Log] Click on Login 
+2019-12-25 08:54:37,324 INFO  [Log] Successfully close the browser 
+2019-12-25 08:54:37,324 INFO  [Log] **************************End********************** 
+2019-12-25 08:54:39,952 INFO  [Log] **************************verifyLoginWithBlankUserName*********************** 
+2019-12-25 08:54:39,952 INFO  [Log] Successfully launched the Browser 
+2019-12-25 08:54:42,961 INFO  [Log] Successfully launch the application 
+2019-12-25 08:54:43,058 INFO  [Log] Entered username:  
+2019-12-25 08:54:43,187 INFO  [Log] Entered Password: Vishnu 
+2019-12-25 08:54:43,308 INFO  [Log] Click on Login 
+2019-12-25 08:54:53,487 INFO  [Log] Successfully close the browser 
+2019-12-25 08:54:53,487 INFO  [Log] **************************End********************** 
+2019-12-25 08:54:55,994 INFO  [Log] **************************verifyLoginWithInvalidCredentials*********************** 
+2019-12-25 08:54:56,007 INFO  [Log] Successfully launched the Browser 
+2019-12-25 08:54:59,431 INFO  [Log] Successfully launch the application 
+2019-12-25 08:54:59,584 INFO  [Log] Entered username: Invalid 
+2019-12-25 08:54:59,698 INFO  [Log] Entered Password: Invalid 
+2019-12-25 08:55:08,616 INFO  [Log] Click on Login 
+2019-12-25 08:55:11,585 INFO  [Log] Successfully close the browser 
+2019-12-25 08:55:11,585 INFO  [Log] **************************End********************** 
+2019-12-25 08:55:14,151 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2019-12-25 08:55:14,152 INFO  [Log] Successfully launched the Browser 
+2019-12-25 08:55:15,926 INFO  [Log] Successfully launch the application 
+2019-12-25 08:55:16,070 INFO  [Log] Entered username: Vishnu 
+2019-12-25 08:55:16,180 INFO  [Log] Entered Password: Vishnu 
+2019-12-25 08:55:24,168 INFO  [Log] Click on Login 
+2019-12-25 08:55:24,851 INFO  [Log] Successfully close the browser 
+2019-12-25 08:55:24,851 INFO  [Log] **************************End********************** 
+2019-12-26 07:57:49,918 INFO  [Log] **************************verifyFooterMessage*********************** 
+2019-12-26 07:57:49,919 INFO  [Log] Successfully launched the Browser 
+2019-12-26 07:57:51,733 INFO  [Log] Successfully launch the application 
+2019-12-26 07:57:52,672 INFO  [Log] Successfully close the browser 
+2019-12-26 07:57:52,672 INFO  [Log] **************************End********************** 
+2019-12-26 07:57:55,231 INFO  [Log] **************************verifyLoginWithBlankPassword*********************** 
+2019-12-26 07:57:55,231 INFO  [Log] Successfully launched the Browser 
+2019-12-26 07:57:56,913 INFO  [Log] Successfully launch the application 
+2019-12-26 07:57:57,057 INFO  [Log] Entered username: Vishnu 
+2019-12-26 07:57:57,146 INFO  [Log] Entered Password:  
+2019-12-26 07:57:57,243 INFO  [Log] Click on Login 
+2019-12-26 07:57:58,166 INFO  [Log] Successfully close the browser 
+2019-12-26 07:57:58,166 INFO  [Log] **************************End********************** 
+2019-12-26 07:58:00,896 INFO  [Log] **************************verifyLoginWithBlankUserName*********************** 
+2019-12-26 07:58:00,896 INFO  [Log] Successfully launched the Browser 
+2019-12-26 07:58:02,526 INFO  [Log] Successfully launch the application 
+2019-12-26 07:58:02,649 INFO  [Log] Entered username:  
+2019-12-26 07:58:02,756 INFO  [Log] Entered Password: Vishnu 
+2019-12-26 07:58:02,856 INFO  [Log] Click on Login 
+2019-12-26 07:58:03,547 INFO  [Log] Successfully close the browser 
+2019-12-26 07:58:03,547 INFO  [Log] **************************End********************** 
+2019-12-26 07:58:06,121 INFO  [Log] **************************verifyLoginWithInvalidCredentials*********************** 
+2019-12-26 07:58:06,121 INFO  [Log] Successfully launched the Browser 
+2019-12-26 07:58:08,191 INFO  [Log] Successfully launch the application 
+2019-12-26 07:58:08,354 INFO  [Log] Entered username: Invalid 
+2019-12-26 07:58:08,469 INFO  [Log] Entered Password: Invalid 
+2019-12-26 07:58:10,126 INFO  [Log] Click on Login 
+2019-12-26 07:58:10,794 INFO  [Log] Successfully close the browser 
+2019-12-26 07:58:10,794 INFO  [Log] **************************End********************** 
+2019-12-26 07:58:13,309 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2019-12-26 07:58:13,309 INFO  [Log] Successfully launched the Browser 
+2019-12-26 07:58:15,298 INFO  [Log] Successfully launch the application 
+2019-12-26 07:58:15,441 INFO  [Log] Entered username: Vishnu 
+2019-12-26 07:58:15,549 INFO  [Log] Entered Password: Vishnu 
+2019-12-26 07:58:19,413 INFO  [Log] Click on Login 
+2019-12-26 07:58:20,231 INFO  [Log] Successfully close the browser 
+2019-12-26 07:58:20,231 INFO  [Log] **************************End********************** 
+2019-12-26 07:58:23,019 INFO  [Log] **************************verifyAddEmployee*********************** 
+2019-12-26 07:58:23,019 INFO  [Log] Successfully launched the Browser 
+2019-12-26 07:58:24,750 INFO  [Log] Successfully launch the application 
+2019-12-26 07:58:24,877 INFO  [Log] Entered username: Vishnu 
+2019-12-26 07:58:24,982 INFO  [Log] Entered Password: Vishnu 
+2019-12-26 07:58:28,764 INFO  [Log] Click on Login 
+2019-12-26 07:58:28,764 INFO  [Log] Successfully Login into application 
+2019-12-26 07:58:29,003 INFO  [Log] Successfully navigate to PIM 
+2019-12-26 07:58:29,105 INFO  [Log] Successfully navigate to Add Employee page 
+2019-12-26 07:58:43,613 INFO  [Log] Successfully added employee details 
+2019-12-26 07:58:48,044 INFO  [Log] Successfully navigate to Employee List 
+2019-12-26 07:58:48,414 INFO  [Log] Emp Id: 0096 
+2019-12-26 07:58:49,054 INFO  [Log] Successfully close the browser 
+2019-12-26 07:58:49,054 INFO  [Log] **************************End********************** 
+2019-12-26 08:01:11,476 INFO  [Log] **************************verifyFooterMessage*********************** 
+2019-12-26 08:01:11,477 INFO  [Log] Successfully launched the Browser 
+2019-12-26 08:01:13,178 INFO  [Log] Successfully launch the application 
+2019-12-26 08:01:13,959 INFO  [Log] Successfully close the browser 
+2019-12-26 08:01:13,959 INFO  [Log] **************************End********************** 
+2019-12-26 08:01:16,621 INFO  [Log] **************************verifyLoginWithBlankPassword*********************** 
+2019-12-26 08:01:16,621 INFO  [Log] Successfully launched the Browser 
+2019-12-26 08:01:18,375 INFO  [Log] Successfully launch the application 
+2019-12-26 08:01:18,529 INFO  [Log] Entered username: Vishnu 
+2019-12-26 08:01:18,621 INFO  [Log] Entered Password:  
+2019-12-26 08:01:18,730 INFO  [Log] Click on Login 
+2019-12-26 08:01:19,416 INFO  [Log] Successfully close the browser 
+2019-12-26 08:01:19,416 INFO  [Log] **************************End********************** 
+2019-12-26 08:01:21,997 INFO  [Log] **************************verifyLoginWithBlankUserName*********************** 
+2019-12-26 08:01:21,997 INFO  [Log] Successfully launched the Browser 
+2019-12-26 08:01:23,725 INFO  [Log] Successfully launch the application 
+2019-12-26 08:01:23,849 INFO  [Log] Entered username:  
+2019-12-26 08:01:23,995 INFO  [Log] Entered Password: Vishnu 
+2019-12-26 08:01:24,107 INFO  [Log] Click on Login 
+2019-12-26 08:01:25,024 INFO  [Log] Successfully close the browser 
+2019-12-26 08:01:25,024 INFO  [Log] **************************End********************** 
+2019-12-26 08:01:27,559 INFO  [Log] **************************verifyLoginWithInvalidCredentials*********************** 
+2019-12-26 08:01:27,560 INFO  [Log] Successfully launched the Browser 
+2019-12-26 08:01:29,213 INFO  [Log] Successfully launch the application 
+2019-12-26 08:01:29,373 INFO  [Log] Entered username: Invalid 
+2019-12-26 08:01:29,487 INFO  [Log] Entered Password: Invalid 
+2019-12-26 08:01:31,167 INFO  [Log] Click on Login 
+2019-12-26 08:01:31,847 INFO  [Log] Successfully close the browser 
+2019-12-26 08:01:31,847 INFO  [Log] **************************End********************** 
+2019-12-26 08:01:34,421 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2019-12-26 08:01:34,421 INFO  [Log] Successfully launched the Browser 
+2019-12-26 08:01:36,113 INFO  [Log] Successfully launch the application 
+2019-12-26 08:01:36,258 INFO  [Log] Entered username: Vishnu 
+2019-12-26 08:01:36,365 INFO  [Log] Entered Password: Vishnu 
+2019-12-26 08:01:40,928 INFO  [Log] Click on Login 
+2019-12-26 08:01:41,644 INFO  [Log] Successfully close the browser 
+2019-12-26 08:01:41,644 INFO  [Log] **************************End********************** 
+2019-12-26 08:01:44,420 INFO  [Log] **************************verifyAddEmployee*********************** 
+2019-12-26 08:01:44,420 INFO  [Log] Successfully launched the Browser 
+2019-12-26 08:01:46,034 INFO  [Log] Successfully launch the application 
+2019-12-26 08:01:46,160 INFO  [Log] Entered username: Vishnu 
+2019-12-26 08:01:46,265 INFO  [Log] Entered Password: Vishnu 
+2019-12-26 08:01:49,866 INFO  [Log] Click on Login 
+2019-12-26 08:01:49,866 INFO  [Log] Successfully Login into application 
+2019-12-26 08:01:49,977 INFO  [Log] Successfully navigate to PIM 
+2019-12-26 08:01:50,076 INFO  [Log] Successfully navigate to Add Employee page 
+2019-12-26 08:02:01,090 INFO  [Log] Successfully added employee details 
+2019-12-26 08:02:05,369 INFO  [Log] Successfully navigate to Employee List 
+2019-12-26 08:02:05,657 INFO  [Log] Emp Id: 0097 
+2019-12-26 08:02:06,264 INFO  [Log] Successfully close the browser 
+2019-12-26 08:02:06,264 INFO  [Log] **************************End********************** 
+2019-12-26 09:10:02,874 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2019-12-26 09:10:02,874 INFO  [Log] Successfully launched the Browser 
+2019-12-26 09:10:04,817 INFO  [Log] Successfully launch the application 
+2019-12-26 09:10:05,054 INFO  [Log] Entered username: Vishnu 
+2019-12-26 09:10:05,158 INFO  [Log] Entered Password: Vishnu 
+2019-12-26 09:10:08,844 INFO  [Log] Click on Login 
+2019-12-26 09:10:09,604 INFO  [Log] Successfully close the browser 
+2019-12-26 09:10:09,605 INFO  [Log] **************************End********************** 
+2019-12-27 08:13:54,844 INFO  [Log] **************************verifyFooterMessage*********************** 
+2019-12-27 08:13:54,845 INFO  [Log] Successfully launched the Browser 
+2019-12-27 08:13:57,881 INFO  [Log] Successfully launch the application 
+2019-12-27 08:13:58,960 INFO  [Log] Successfully close the browser 
+2019-12-27 08:13:58,960 INFO  [Log] **************************End********************** 
+2019-12-27 08:14:01,820 INFO  [Log] **************************verifyLoginWithBlankPassword*********************** 
+2019-12-27 08:14:01,820 INFO  [Log] Successfully launched the Browser 
+2019-12-27 08:14:03,498 INFO  [Log] Successfully launch the application 
+2019-12-27 08:14:03,663 INFO  [Log] Entered username: Vishnu 
+2019-12-27 08:14:03,750 INFO  [Log] Entered Password:  
+2019-12-27 08:14:03,847 INFO  [Log] Click on Login 
+2019-12-27 08:14:04,552 INFO  [Log] Successfully close the browser 
+2019-12-27 08:14:04,552 INFO  [Log] **************************End********************** 
+2019-12-27 08:14:07,102 INFO  [Log] **************************verifyLoginWithBlankUserName*********************** 
+2019-12-27 08:14:07,102 INFO  [Log] Successfully launched the Browser 
+2019-12-27 08:14:08,776 INFO  [Log] Successfully launch the application 
+2019-12-27 08:14:08,896 INFO  [Log] Entered username:  
+2019-12-27 08:14:09,011 INFO  [Log] Entered Password: Vishnu 
+2019-12-27 08:14:09,132 INFO  [Log] Click on Login 
+2019-12-27 08:14:09,793 INFO  [Log] Successfully close the browser 
+2019-12-27 08:14:09,793 INFO  [Log] **************************End********************** 
+2019-12-27 08:14:12,392 INFO  [Log] **************************verifyLoginWithInvalidCredentials*********************** 
+2019-12-27 08:14:12,392 INFO  [Log] Successfully launched the Browser 
+2019-12-27 08:14:14,108 INFO  [Log] Successfully launch the application 
+2019-12-27 08:14:14,285 INFO  [Log] Entered username: Invalid 
+2019-12-27 08:14:14,400 INFO  [Log] Entered Password: Invalid 
+2019-12-27 08:14:16,096 INFO  [Log] Click on Login 
+2019-12-27 08:14:16,767 INFO  [Log] Successfully close the browser 
+2019-12-27 08:14:16,767 INFO  [Log] **************************End********************** 
+2019-12-27 08:14:19,337 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2019-12-27 08:14:19,337 INFO  [Log] Successfully launched the Browser 
+2019-12-27 08:14:20,980 INFO  [Log] Successfully launch the application 
+2019-12-27 08:14:21,117 INFO  [Log] Entered username: Vishnu 
+2019-12-27 08:14:21,226 INFO  [Log] Entered Password: Vishnu 
+2019-12-27 08:14:25,764 INFO  [Log] Click on Login 
+2019-12-27 08:14:26,999 INFO  [Log] Successfully close the browser 
+2019-12-27 08:14:26,999 INFO  [Log] **************************End********************** 
+2019-12-27 09:06:25,550 INFO  [Log] **************************verifyFooterMessage*********************** 
+2019-12-27 09:06:25,551 INFO  [Log] Successfully launched the Browser 
+2019-12-27 09:06:27,332 INFO  [Log] Successfully launch the application 
+2019-12-27 09:06:28,227 INFO  [Log] Successfully close the browser 
+2019-12-27 09:06:28,228 INFO  [Log] **************************End********************** 
+2019-12-27 09:09:44,383 INFO  [Log] **************************verifyFooterMessage*********************** 
+2019-12-27 09:09:44,383 INFO  [Log] Successfully launched the Browser 
+2019-12-27 09:09:46,347 INFO  [Log] Successfully launch the application 
+2019-12-27 09:09:46,613 INFO  [Log] Successfully close the browser 
+2019-12-27 09:09:46,613 INFO  [Log] **************************End********************** 
+2019-12-27 09:09:50,097 INFO  [Log] **************************verifyLoginWithBlankPassword*********************** 
+2019-12-27 09:09:50,097 INFO  [Log] Successfully launched the Browser 
+2019-12-27 09:09:51,905 INFO  [Log] Successfully launch the application 
+2019-12-27 09:09:52,082 INFO  [Log] Entered username: Vishnu 
+2019-12-27 09:09:52,187 INFO  [Log] Entered Password:  
+2019-12-27 09:09:52,299 INFO  [Log] Click on Login 
+2019-12-27 09:09:52,402 INFO  [Log] Successfully close the browser 
+2019-12-27 09:09:52,403 INFO  [Log] **************************End********************** 
+2019-12-27 09:09:55,508 INFO  [Log] **************************verifyLoginWithBlankUserName*********************** 
+2019-12-27 09:09:55,508 INFO  [Log] Successfully launched the Browser 
+2019-12-27 09:09:57,232 INFO  [Log] Successfully launch the application 
+2019-12-27 09:09:57,358 INFO  [Log] Entered username:  
+2019-12-27 09:09:57,487 INFO  [Log] Entered Password: Vishnu 
+2019-12-27 09:09:57,603 INFO  [Log] Click on Login 
+2019-12-27 09:09:57,698 INFO  [Log] Successfully close the browser 
+2019-12-27 09:09:57,698 INFO  [Log] **************************End********************** 
+2019-12-27 09:10:00,800 INFO  [Log] **************************verifyLoginWithInvalidCredentials*********************** 
+2019-12-27 09:10:00,800 INFO  [Log] Successfully launched the Browser 
+2019-12-27 09:10:02,633 INFO  [Log] Successfully launch the application 
+2019-12-27 09:10:02,807 INFO  [Log] Entered username: Invalid 
+2019-12-27 09:10:02,931 INFO  [Log] Entered Password: Invalid 
+2019-12-27 09:10:04,503 INFO  [Log] Click on Login 
+2019-12-27 09:10:04,598 INFO  [Log] Successfully close the browser 
+2019-12-27 09:10:04,598 INFO  [Log] **************************End********************** 
+2019-12-27 09:10:07,665 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2019-12-27 09:10:07,665 INFO  [Log] Successfully launched the Browser 
+2019-12-27 09:10:09,454 INFO  [Log] Successfully launch the application 
+2019-12-27 09:10:09,588 INFO  [Log] Entered username: Vishnu 
+2019-12-27 09:10:09,706 INFO  [Log] Entered Password: Vishnu 
+2019-12-27 09:10:13,396 INFO  [Log] Click on Login 
+2019-12-27 09:10:13,995 INFO  [Log] Successfully close the browser 
+2019-12-27 09:10:13,995 INFO  [Log] **************************End********************** 

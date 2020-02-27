@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [OrangeHRM]">
+  <test name="Login">
+    <classes>
+      <class name="com.orangehrm.tests.LoginTest"/>
+    </classes>
+  </test> <!-- Login -->
+  <test name="Login(failed)">
+    <classes>
+      <class name="com.orangehrm.tests.LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="openBrowser"/>
+          <include name="openApplication"/>
+          <include name="verifyLoginWithValidCredentials"/>
+          <include name="closeBrowser"/>
+          <include name="intialize"/>
+        </methods>
+      </class> <!-- com.orangehrm.tests.LoginTest -->
+    </classes>
+  </test> <!-- Login(failed) -->
+</suite> <!-- Failed suite [OrangeHRM] -->
